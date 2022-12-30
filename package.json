@@ -1,5 +1,6 @@
 {
   "name": "menu-recipe-site",
+  "homepage": "https://iamjonguz.github.io/menu-recipe-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
